@@ -431,6 +431,31 @@
 				<string>#FF330A</string>
 			</dict>
 		</dict>
+
+		<!-- Color curly parenthesis in JavaScript syntax -->
+			<dict>
+				<key>name</key>
+				<string>Block curly</string>
+				<key>scope</key>
+				<string>meta.block punctuation.definition.block</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#FF66BB</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Object Literal curly</string>
+				<key>scope</key>
+				<string>meta.object-literal punctuation.definition.block</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#BBBBFF</string>
+				</dict>
+			</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
