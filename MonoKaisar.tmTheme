@@ -57,6 +57,7 @@
 				<string>#75715E</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>String</string>
@@ -80,6 +81,7 @@
 				<string>#7070D0</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Number</string>
@@ -91,6 +93,7 @@
 				<string>#E754C4</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Built-in constant</string>
@@ -102,6 +105,7 @@
 				<string>#AE81FF</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>User-defined constant</string>
@@ -113,6 +117,7 @@
 				<string>#AE81FF</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -124,6 +129,7 @@
 				<string>#00a0f0</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Property</string>
@@ -220,6 +226,7 @@
 				<string>#A6E22E</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Function argument in definition</string>
@@ -255,6 +262,7 @@
 				<string>#A6E22E</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Library class/type</string>
@@ -283,6 +291,7 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Invalid deprecated</string>
@@ -296,6 +305,7 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>JSON String</string>
@@ -307,6 +317,7 @@
 				<string>#CFCFC2</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>diff.header</string>
@@ -318,6 +329,7 @@
 				<string>#75715E</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>diff.deleted</string>
@@ -329,6 +341,7 @@
 				<string>#F92672</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>diff.inserted</string>
@@ -340,6 +353,7 @@
 				<string>#A6E22E</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>diff.changed</string>
@@ -351,6 +365,7 @@
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>scope</key>
 			<string>constant.numeric.line-number.find-in-files - match</string>
@@ -360,6 +375,7 @@
 				<string>#AE81FFA0</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>scope</key>
 			<string>entity.name.filename</string>
@@ -369,6 +385,7 @@
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>scope</key>
 			<string>message.error</string>
@@ -378,6 +395,7 @@
 				<string>#F83333</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>SublimeLinter Gutter Mark</string>
@@ -389,6 +407,7 @@
 				<string>#FFFFFF</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>SublimeLinter Warning</string>
@@ -400,6 +419,7 @@
 				<string>#DDB700</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>SublimeLinter Error</string>
