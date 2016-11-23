@@ -90,7 +90,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E754C4</string>
+				<string>#1A76FF</string>
 			</dict>
 		</dict>
 
@@ -150,7 +150,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f0a000</string>
+				<string>#00a034</string>
 			</dict>
 		</dict>
 
@@ -186,7 +186,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#F901D0</string>
+				<!-- <key>fontStyle</key> -->
+				<!-- <string>bold</string> -->
 			</dict>
 		</dict>
 
@@ -198,7 +200,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 
@@ -209,10 +211,8 @@
 			<string>entity.name.class, variable.language.this</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#09a03a</string>
 			</dict>
 		</dict>
 
@@ -272,7 +272,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#00ff00</string>
 			</dict>
 		</dict>
 
