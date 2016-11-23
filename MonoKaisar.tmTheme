@@ -74,7 +74,7 @@
 			<key>name</key>
 			<string>Key</string>
 			<key>scope</key>
-			<string>constant.other.object.key</string>
+			<string>constant.other.object.key, meta.object-literal.key, punctuation.separator.key-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -120,9 +120,9 @@
 
 		<dict>
 			<key>name</key>
-			<string>Variable</string>
+			<string>Variables</string>
 			<key>scope</key>
-			<string>variable</string>
+			<string>variable, entity</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -134,7 +134,7 @@
 			<key>name</key>
 			<string>Property</string>
 			<key>scope</key>
-			<string>meta.property variable, variable.other.readwrite.property</string>
+			<string>meta.property.object.js, meta.property variable, variable.other.readwrite.property</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -170,7 +170,19 @@
 			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword</string>
+			<string>keyword - keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Keyword</string>
+			<key>scope</key>
+			<string>keyword.operator.logical, constant.language</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -186,26 +198,15 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F92672</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Class name</string>
-			<key>scope</key>
-			<string>entity.name.class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
 				<string>#A6E22E</string>
 			</dict>
 		</dict>
 
 		<dict>
 			<key>name</key>
-			<string>Inherited class</string>
+			<string>Class name</string>
 			<key>scope</key>
-			<string>entity.other.inherited-class</string>
+			<string>entity.name.class, variable.language.this</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -219,7 +220,7 @@
 			<key>name</key>
 			<string>Function name in definition</string>
 			<key>scope</key>
-			<string>entity.name.function</string>
+			<string>entity.name.function, meta.function.declaration punctuation.separator.key-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -267,7 +268,6 @@
 			<key>name</key>
 			<string>Library class/type</string>
 			<key>scope</key>
-			<!-- <string>support.function, support.constant, support.type, support.class, support.other.variable</string> -->
 			<string>support</string>
 			<key>settings</key>
 			<dict>
