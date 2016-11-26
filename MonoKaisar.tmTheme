@@ -9,40 +9,61 @@
 		<dict>
 			<key>settings</key>
 			<dict>
-				<key>activeGuide</key>
-				<string>#ddddddaa</string>
+				<key>foreground</key>
+				<string>#F8F8F2</string>
 				<key>background</key>
 				<string>#272822</string>
-				<key>bracketContentsForeground</key>
-				<string>#F8F8F2A5</string>
-				<key>bracketContentsOptions</key>
-				<string>underline</string>
-				<key>bracketsForeground</key>
-				<string>#F8F8F2A5</string>
-				<key>bracketsOptions</key>
-				<string>underline</string>
+				<key>lineHighlight</key>
+				<string>#ffffff11</string>
 				<key>caret</key>
-				<string>#F8F8F0</string>
+				<string>#ffffff</string>
+
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
-				<key>foreground</key>
-				<string>#F8F8F2</string>
-				<key>guide</key>
-				<string>#dddddd22</string>
-				<key>invisibles</key>
-				<string>#3B3A32</string>
-				<key>lineHighlight</key>
-				<string>#3E3D32</string>
+
+				<key>highlight</key>
+				<string>#0000ff</string>
+				<key>highlightForeground</key>
+				<string></string>
+
 				<key>selection</key>
-				<string>#49483E</string>
+				<string>#ffffff22</string>
 				<key>selectionBorder</key>
-				<string>#222218</string>
+				<string>#ffffff00</string>
+
+				<key>guide</key>
+				<string>#ffffff11</string>
 				<key>stackGuide</key>
-				<string>#dddddd22</string>
+				<string>#ffffff11</string>
+				<key>activeGuide</key>
+				<string>#ffffffaa</string>
+
+				<key>gutter</key>
+				<string>#ffffff05</string>
+				<key>gutterForeground</key>
+				<string>#ffffff44</string>
+
+				<key>bracketContentsOptions</key>
+				<string>foreground</string>
+				<key>bracketContentsForeground</key>
+				<string>#9999ff</string>
+
+				<key>bracketsOptions</key>
+				<string>foreground</string>
+				<key>bracketsForeground</key>
+				<string>#0000ff</string>
+
 				<key>tagsOptions</key>
-				<string>stippled_underline</string>
+				<string>foreground</string>
+				<key>tagsForeground</key>
+				<string>#0000ff</string>
+
+				<key>shadow</key>
+				<string>#00000011</string>
+				<key>shadowWidth</key>
+				<string></string>
 			</dict>
 		</dict>
 
