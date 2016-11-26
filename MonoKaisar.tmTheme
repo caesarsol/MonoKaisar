@@ -208,8 +208,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#F901D0</string>
-				<!-- <key>fontStyle</key> -->
-				<!-- <string>bold</string> -->
 			</dict>
 		</dict>
 
