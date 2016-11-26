@@ -170,7 +170,7 @@
 			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword - keyword.operator</string>
+			<string>keyword - keyword.operator, keyword.operator.module</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
