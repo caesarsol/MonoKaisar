@@ -264,18 +264,6 @@
 			</dict>
 		</dict>
 
-		<dict>
-			<key>name</key>
-			<string>Library class/type</string>
-			<key>scope</key>
-			<string>support</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#00ff00</string>
-			</dict>
-		</dict>
-
 		<!-- Pseudo selectors -->
 
 		<dict>
